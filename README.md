@@ -5,10 +5,10 @@
 > *"我要扼住命运的咽喉，它绝不能使我完全屈服。"*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Agent Skills](https://img.shields.io/badge/Agent-Skills-blueviolet)](https://agentskills.io)
 [![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
 
-**让 Claude 以贝多芬的视角思考 -- 在苦难中创造、激情澎湃、不向命运屈服，用音乐巨人的精神力量重新定义困境与突破。**
+**让 AI 以贝多芬的视角思考 -- 在苦难中创造、激情澎湃、不向命运屈服，用音乐巨人的精神力量重新定义困境与突破。**
 
 </div>
 ---
